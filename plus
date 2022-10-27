@@ -2,7 +2,7 @@
 # SPDX-FileCopyrightText: 2022 Naoto Sato
 import sys
 
-ans = 0.0
+ans = 0
 for line in sys.stdin:
     try:
         ans += int(line)
