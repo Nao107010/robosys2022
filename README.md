@@ -1,5 +1,6 @@
 # robosys2022
 CIT_futurerobotics_robosys2022
+ロボットシステム学の練習リポジトリ
 
 2022 Naoto Sato
 
