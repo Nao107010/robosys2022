@@ -4,6 +4,9 @@ CIT_futurerobotics_robosys2022
 
 2022 Naoto Sato
 
+# plusコマンド
+![test](https://github.com/Nao107010/robosys2022/actions/workflows/test.yml/badge.svg)
+
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
 
 1. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
