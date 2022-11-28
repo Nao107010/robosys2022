@@ -1,20 +1,27 @@
 # robosys2022
+
 CIT_futurerobotics_robosys2022
-ロボットシステム学の練習リポジトリ
+このリポジトリはロボットシステム学の課題で作ったものをあげるためのものです。
 
-2022 Naoto Sato
-
-# plusコマンド
 ![test](https://github.com/Nao107010/robosys2022/actions/workflows/test.yml/badge.svg)
 
-標準入力から読み込んだ数字を足す。
+#インストール手順
+コマンドを使用するには、リポジトリをクローンしたあと、robosys2022へ移動してください。
 
-# 必要なソフトウェア
-* Python
- 動作確認済み済み: 3.7～3.10
+$git clone https://github.com/Nao107010/robosys2022.com
+$cd robosys2022
+
+また、Pythonを用いたプログラムなので未インストールの方はインストールをお願いします。
+
+# plusコマンド
+
+標準入力から読み込んだ数字を足し合わせて出力します。
 
 # 動作確認済み環境
-* Ubuntu
+次の環境で動作確認がされています。
+* Ubuntu 18.04
+* Python 3.7～3.10 
+
 
 * このソフトウェアパッケージは，3条項BSDライセンスの下，再頒布および使用が許可されます．
 * © 2022 Naoto Sato
