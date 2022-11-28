@@ -5,11 +5,11 @@ CIT_futurerobotics_robosys2022
 
 ![test](https://github.com/Nao107010/robosys2022/actions/workflows/test.yml/badge.svg)
 
-#インストール手順
+# インストール手順
 コマンドを使用するには、リポジトリをクローンしたあと、robosys2022へ移動してください。
 
-$git clone https://github.com/Nao107010/robosys2022.com
-$cd robosys2022
+$ git clone https://github.com/Nao107010/robosys2022.com
+$ cd robosys2022
 
 また、Pythonを用いたプログラムなので未インストールの方はインストールをお願いします。
 
