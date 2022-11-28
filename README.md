@@ -8,8 +8,10 @@ CIT_futurerobotics_robosys2022
 # インストール手順
 コマンドを使用するには、リポジトリをクローンしたあと、robosys2022へ移動してください。
 
+```
 $ git clone https://github.com/Nao107010/robosys2022.com
 $ cd robosys2022
+```
 
 また、Pythonを用いたプログラムなので未インストールの方はインストールをお願いします。
 
