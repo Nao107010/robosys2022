@@ -8,7 +8,7 @@
 コマンドを使用するには、リポジトリをクローンしたあと、robosys2022へ移動してください。
 
 ```
-$ git clone https://github.com/Nao107010/robosys2022.com
+$ git clone https://github.com/Nao107010/robosys2022
 $ cd robosys2022
 ```
 
