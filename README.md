@@ -1,7 +1,6 @@
 # robosys2022
 
-CIT_futurerobotics_robosys2022  
-このリポジトリはロボットシステム学の授業の課題で作ったものをあげるためのものです。
+このリポジトリは未来ロボティクス学科のロボットシステム学の授業の課題で作ったものをあげるためのものです。
 
 ![test](https://github.com/Nao107010/robosys2022/actions/workflows/test.yml/badge.svg)
 
